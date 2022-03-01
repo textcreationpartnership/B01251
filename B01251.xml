@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the further adiournment of Michaelmasse terme..</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01251</idno>
+            <idno type="STC">STC 8804</idno>
+            <idno type="STC">ESTC S92044</idno>
+            <idno type="EEBO-CITATION">54532345</idno>
+            <idno type="OCLC">ocm 54532345</idno>
+            <idno type="VID">180779</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01251)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180779)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2134:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the further adiournment of Michaelmasse terme..</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by I.L. and W.T. for Bonham Norton and Iohn Bill.,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>[1625].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial.</note>
+                  <note>"Given at the court at Salisbury the eleuenth day of October, in the first yeare [of] our raigne of Great Brittaine, France, and Ireland."</note>
+                  <note>Imperfect: cropped, with partial loss of imprint and some text; date supplied from STC (2nd ed.).</note>
+                  <note>Reproduction of original in: Universität Göttingen. Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plague --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:180779:1"/>
+            <pb facs="tcp:180779:1" rendition="simple:additions"/>
+            <head>BY THE KING.</head>
+            <head type="sub">A Proclamation for the further adiournment of <hi>Michaelmaſſe</hi> Terme.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas our gratious Soueraigne Lord the Kings Maieſtie, taking into His Princely conſideration the health and ſafety of His louing Subiects, and how much they might be indangered by the great and generall infection of the Plague, which hath beene long in the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and the places nere adjoyning, if by their ſeruices, ſuits, or other cauſes occaſioned by the Terme they ſhould be dravvne thither before that heavy viſitation ſhould by the mercy of God be remoued: Did there<g ref="char:EOLhyphen"/>fore by His Royall Proclamation dated the fourth day of September now laſt paſt ſignifie His plea<g ref="char:EOLhyphen"/>ſure, That part of the Terme of S. <hi>Michael</hi> then next comming ſhould be adjourned; That is to ſay, from the <hi>Vtas</hi> thereof vnto the fourth returne of the ſame Terme called <hi>Menſe Michaelis.</hi> Now His Ma<g ref="char:EOLhyphen"/>jeſtie foreſeeing, that although by Gods mercy that grievous ſicknes is much aſſwaged in thoſe Cities and parts adjoyning, yet the danger thereof would be very great to His whole Kingdome, in diſperſing the infection, and vvould longer conti<g ref="char:EOLhyphen"/>nue the perill thereof in thoſe places already infected by the concourſe of ſo many from all parts of the Kingdome, whom the buſineſſes of the Terme muſt neceſſarily draw together; Doth therefore hereby declare His pleaſure to be, That at the ſaid returne called <hi>Menſe Michaelis,</hi> the ſaid Terme be againe adjourned vntill the next returne after, being the fifth returne of the ſaid Terme called <hi>Craſtino Animarum,</hi> and that at the ſaid adjournment the Terme be alſo adjourned from the City of <hi>Weſtminſter,</hi> vnto the Towne of <hi>Reading,</hi> in the Countie of <hi>Berke,</hi> and there continued for the reſidue of the ſaid Terme, where His Will is, that all His louing Subjects of this Realme, whom it may any way concerne, doe take notice. And His Majeſties pleaſure is, That one of His Iuſtices of either Bench on that day of <hi>Menſe Michaelis,</hi> according to the ancient order of the Lawes, keepe the Eſſoynes of the ſaid returne of <hi>Menſe Michaelis,</hi> at which time Writs of adjournment (which His Ma<g ref="char:EOLhyphen"/>jeſtie hereby commandeth the Lord Keeper of His Great Seale of <hi>England</hi> to make forth) ſhalbe directed to the ſaid Iuſtices, giuing them authority to make ſuch further adjournment as aforeſaid. And further His Majeſties pleaſure is, that all matters, cauſes and ſuits depending in any of His other Courts of Star-chamber, Exchequer, Courts of Wards &amp; Liveries, Dutchie of Lancaſter, and Court of Requeſts ſhall haue continuance, and the parties ſhall haue day from the ſaid fourth Returne called <hi>Menſe Michaelis,</hi> vntill the ſaid fifth Returne called <hi>Craſtino Animarum.</hi> And whereas His Majeſty by His ſaid former Procla<g ref="char:EOLhyphen"/>mation did direct, That all Collectors, Sheriffes, and other Accomptants, and all other perſons that ſhould or ought to ac<g ref="char:EOLhyphen"/>compt for, or pay any ſumme or ſummes of money in any of His Maieſties Courts of Exchequer, Courts of Wards and Live<g ref="char:EOLhyphen"/>ries, and of His Dutchie of Lancaſter, or in any of them, or to enter into any accompt in any of the ſaid Courts, ſhould re<g ref="char:EOLhyphen"/>paire vnto His Maieſties houſe of <hi>Richmond,</hi> as though no ſuch Proclamation of adiournment had beene had or made; Now His Maieſties pleaſure is, and he doth hereby direct and command, that at and from the ſaid Returne of <hi>Craſtino Animarum,</hi> all Collectors, Receiuers, Sheriffes, and other accomptants, and all other perſons that ſhould or ought to accompt for or pay any ſumme or ſummes of money in any of the places aforeſaid, ſhall giue their attendance at the Towne of <hi>Reading</hi> aforeſaid, and there make their payments, and enter into, and proſecute their accompts, as they ought to haue done at the Receipt at <hi>Weſtminſter.</hi> And leſt the ouer-haſtie reſort of Strangers to the ſaid Cities of <hi>London</hi> and <hi>Westminster,</hi> and places neere adioy<g ref="char:EOLhyphen"/>ning, and the intercourſe of trade betweene thoſe Cities and places adioyning, and other Cities, Townes, and places of this Kingdome more remote, might be an occaſion of ſpreading the infection into other parts and places not yet infected, and of continuing it the longer where it is already, which would hinder his Maieſties repaire to thoſe Cities, and be an impedi<g ref="char:EOLhyphen"/>ment to other matters of importance, for the benefite and comfort of thoſe Cities, whereas the forbearance for a while might availe to their mutuall good and ſafetie. His Maieſtie doth hereby not onely adviſe, but ſtraitly charge and command all perſons, whoſe proper habitations are not in thoſe Cities of <hi>London</hi> and <hi>Westminster,</hi> or places neere adioyning, to forbeare to reſide there, or reſort thither. And that all Carriers either by Land or by Water, with horſe, Wayne, Cart, Waggon, Boat, Barge, or other Veſſell, doe forbeare to carry any wares, merchandize, or other things (other then victuals onely) vnto, or from the ſaid Cities of <hi>London</hi> and <hi>Westminster,</hi> or Suburbs thereof, vntill the perill of the contagion be better paſt ouer, and by the coldnes of the weather the Aire be cleanſed, and the danger remoued, and his Maieſties further pleaſure be knowne herein. And leſt the ſaid Towne of <hi>Reading,</hi> which is now free from the ſickneſſe, may it ſelfe be indangered, or indanger o<g ref="char:EOLhyphen"/>thers reſorting thither by fetching of wares from places now or lately infected; His Maieſty doth ſtraitly charge and command all and euery the Inhabitants of the ſaid Towne, and all other places within three miles thereof, that they wholly forbeare to buy or receiue any wares or merchandize from the ſaid Cities of <hi>London</hi> and <hi>Westminster,</hi> or places adioyning, or from any other place now or lately infected with that contagious ſicknes, vntill the end of the ſaid Terme of S. <hi>Michaell</hi> a the ſooneſt. And his Maieſty doth ſtraitly charge and command the Maior of the ſaid Towne of <hi>Reading,</hi> and the Iuſti<g ref="char:EOLhyphen"/>ces of peace inhabiting within the hundreds of <hi>Reading, Bunning,</hi> and <hi>Thele</hi> in the ſaid County of <hi>Berke,</hi> that they with all di<g ref="char:EOLhyphen"/>ligence ſee his Maieſties pleaſure obſerued herein.</p>
+            <closer>
+               <dateline>Giuen at the Court at Salisbury <date>the eleuenth day of October, in the first yeare our raigne of Great Brittaine, France, and Ireland.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed at Oxford by</hi> I.L. <hi>and</hi> W.T. <hi>for</hi> Bonham Norton <hi>and</hi> Iohn Bill.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
